@@ -1,0 +1,36 @@
+*{
+    border-radius: 25px ;
+    border: 2px solid;
+    border-color: black;
+    background-image:repeating-radial-gradient(circle,coral,rgba(0, 132, 255, 0.836),yellow) ;
+}
+.profile{
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+}
+.content{
+    color:midnightblue; 
+    font-style: italic; 
+    font-size: x-large;
+}
+.events{
+color: midnightblue;
+font-style: italic;
+font-size: xx-large;
+}
+.program{
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+}
+.about{
+color: midnightblue;
+font-style: italic;
+font-size: xx-large;
+}
+.info{
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+}
